@@ -43,9 +43,9 @@ The target variable is:
    python rain\_prediction.py
 
 4. Enter real-time values when prompted:
-   Enter Humidity (rh %): 85
-   Enter Temperature (°C): 25
-   Enter Atmospheric Pressure (mbar): 1012
+   Enter Humidity (rh %): (Eg. 82%)
+   Enter Temperature (°C): (Eg. 25)
+   Enter Atmospheric Pressure (mbar): (Eg. 1012)
 
 5. Get your prediction:
    🌧️ Prediction: It is likely to RAIN.
